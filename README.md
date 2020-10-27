@@ -1,5 +1,7 @@
 #  🌌 Hello React World 🌌
 ---
+<img src="/testpngbanner.png">
+
 *I'am currently focusing on learning javascript* 
 
 *You can see my works and a lot more at :* [Epitaph Studios](www.epitaphstudios.fr)

@@ -1,7 +1,20 @@
+#  🌌 Hello React World 🌌
+
+---
+
+<p>
+    <img src="https://imgur.com/T7yFaRa" width="auto" height="800" />
+</p>
+
+*I'am currently focusing on learning javascript* 
+
+*You can see my works and a lot more at :* [Epitaph Studios](www.epitaphstudios.fr)
+
+
+
+
+
 ### Hi there 👋
-
-[](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
-
 
 Here are some ideas to get you started:
 

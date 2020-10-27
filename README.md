@@ -1,5 +1,5 @@
 
-<img src="/testpngbanner.png">
+<img src="/ibernardbanner.png">
 
 --- 
 

@@ -3,22 +3,15 @@
 
 --- 
 
-
 *I'am currently focusing on learning javascript* 
 
 *You can see my works and a lot more at :* [Epitaph Studios](www.epitaphstudios.fr)
 
 
-### Hi there 👋
+### Feel free to : 
 
-Here are some ideas to get you started:
+* *👀 see my works and a lot more at :* [Epitaph Studios](www.epitaphstudios.fr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* *🗣 Connect with me => [My Linkedin](https://www.linkedin.com/in/isma%C3%ABl-bernard-98b140183/)* 
+
+* *✉️ Write me at : ismael.bernard69@gmail.com*

@@ -1,9 +1,9 @@
 
-<img src="/ibernardbanner.png">
+Hi
 
 --- 
 
-*I'am currently focusing on learning javascript* 
+*I'am currently working at Confluence Transports* 
 
 *You can see my works and a lot more at :* [Epitaph Studios](www.epitaphstudios.fr)
 

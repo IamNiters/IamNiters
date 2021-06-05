@@ -1,6 +1,8 @@
 
 Hi
 
+
+![App Screenshot](https://github.com/IamNiters/IamNiters/blob/main/wildos.jpg)
 https://github.com/IamNiters/IamNiters/blob/main/wildos.jpg
 
 --- 

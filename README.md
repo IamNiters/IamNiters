@@ -1,7 +1,7 @@
 
 Hi
 
-https://i.imgur.com/kw9oN7U.jpg
+https://github.com/IamNiters/IamNiters/blob/main/wildos.jpg
 
 --- 
 
